@@ -17,11 +17,12 @@ Meu nome é Iagor, sou acadêmico em Ciência da Computação pela Universidade 
 </div>
 
 ## Projeto Destacado
-[![MD Locadora](https://github-readme-stats.vercel.app/api/pin/?username=iagorlrnc&repo=mdlocadora&theme=dark)](https://github.com/iagorlrnc/mdlocadora)
+
+[![MD Locadora](https://github-readme-stats.vercel.app/api/pin/?username=iagorlrnc&repo=mdlocadora&theme=tokyonight)](https://github.com/iagorlrnc/mdlocadora)
 
 ## Estatísticas do GitHub
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iagorlrnc&show_icons=true&theme=dark)
-  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iagorlrnc&layout=compact&theme=dark&card_width=470px)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iagorlrnc&show_icons=true&theme=tokyonight)
+  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iagorlrnc&layout=compact&theme=tokyonight&card_width=470px)
   
 ## Contato
 -  E-mail: theiagorlourenco@gmail.com
