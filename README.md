@@ -1,7 +1,7 @@
 # Iagor Lourenço - Desenvolvedor Web Front-End
 
 ## Sobre Mim
-Meu nome é Iagor, sou acadêmico em Ciência da Computação pela Universidade Federal do Tocantins, estudo com o foco no Desenvolvimento Web na área do Front-End. Possuo uma pequena experiência na construção de interfaces web responsivas, utilizando tecnologias como React, TypeScript e Tailwind CSS. Tenho familiaridade e prática de desenvolvimento, controle de versionamento com Git e consumo de APIs REST, buscando constante evolução técnica e aprendizado contínuo de tecnologias e ferramentas modernas do mercado de desenvolvimento web.”
+Meu nome é Iagor, sou acadêmico em Ciência da Computação pela Universidade Federal do Tocantins, estudo com o foco no Desenvolvimento Web na área do Front-End. Possuo uma pequena experiência na construção de interfaces web responsivas, utilizando tecnologias como React, TypeScript e Tailwind CSS. Tenho familiaridade e prática de desenvolvimento, controle de versionamento com Git e consumo de APIs REST, buscando constante evolução técnica e aprendizado contínuo de tecnologias e ferramentas modernas do mercado de desenvolvimento web.
 
 -  Atualmente estou trabalhando em projetos para enriquecimento do portfólio.
 -  Estou aprendendo e evoluindo em TypeScript, React e TailwindCSS.
