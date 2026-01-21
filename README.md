@@ -21,7 +21,7 @@ Meu nome é Iagor, sou acadêmico em Ciência da Computação pela Universidade 
 
 ## Estatísticas do GitHub
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iagorlrnc&show_icons=true&theme=dark)
-  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iagorlrnc&layout=compact&theme=dark&card_width=470px)
+  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iagorlrnc&layout=compact&theme=dark&card_width=470px)
   
 ## Contato
 -  E-mail: theiagorlourenco@gmail.com
