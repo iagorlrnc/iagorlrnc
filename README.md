@@ -1,10 +1,11 @@
 # Iagor Lourenço - Desenvolvedor Web Front-End
 
 ## Sobre Mim
-Meu nome é Iagor, sou acadêmico em Ciência da Computação pela Universidade Federal do Tocantins, estudo com o foco no Desenvolvimento Web na área do Front-End. Possuo uma pequena experiência na construção de interfaces web responsivas, utilizando tecnologias como React, TypeScript e Tailwind CSS. Tenho familiaridade e prática de desenvolvimento, controle de versionamento com Git e consumo de APIs REST, buscando constante evolução técnica e aprendizado contínuo de tecnologias e ferramentas modernas do mercado de desenvolvimento web.
+Meu nome é Iagor, sou acadêmico em Ciência da Computação pela Universidade Federal do Tocantins, estudo com o foco no Desenvolvimento Web na área do Front-End e Web Design. Possuo uma pequena experiência na construção de interfaces web responsivas, utilizando tecnologias como React, TypeScript e Tailwind CSS, e na área de design utilizo o Figma. Tenho familiaridade e prática de desenvolvimento, controle de versionamento com Git e consumo de APIs REST, buscando constante evolução técnica e aprendizado contínuo de tecnologias e ferramentas modernas do mercado de desenvolvimento web.
 
 -  Atualmente estou trabalhando em projetos para enriquecimento do portfólio.
 -  Estou aprendendo e evoluindo em TypeScript, React e TailwindCSS.
+-  Tenho conhecimento intermediário em Figma.
 
 ## Tecnologias
   <div style="display: inline_block"><br>
@@ -14,11 +15,18 @@ Meu nome é Iagor, sou acadêmico em Ciência da Computação pela Universidade 
   <img align="center" alt="Deivid-TS" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Deivid-React" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="center" alt="Deivid-Git" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Deivid-Git" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
 ## Projeto Destacado
-
+### TypeScript, React, TailwindCSS
 [![MD Locadora](https://github-readme-stats.vercel.app/api/pin/?username=iagorlrnc&repo=mdlocadora&theme=tokyonight)](https://github.com/iagorlrnc/mdlocadora)
+
+### Figma
+<p>Clique na imagem para abrir o projeto</p>
+<a href="https://future-lawyer-01f.notion.site/Projeto-Athlos-Figma-2f0bf723486980169964f6889c9a8b5a" target="_blank">
+  <img align="center" alt="Deivid-Git" width="250" src="https://i.imgur.com/91V8Wov.png" /> 
+<a/>
 
 ## Estatísticas do GitHub
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iagorlrnc&show_icons=true&theme=tokyonight)
