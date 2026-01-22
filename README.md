@@ -18,7 +18,7 @@ Meu nome é Iagor, sou acadêmico em Ciência da Computação pela Universidade 
   <img align="center" alt="Deivid-Git" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
-## Projeto Destacado
+## Projetos Destacados
 ### TypeScript, React, TailwindCSS
 [![MD Locadora](https://github-readme-stats.vercel.app/api/pin/?username=iagorlrnc&repo=mdlocadora&theme=tokyonight)](https://github.com/iagorlrnc/mdlocadora)
 
