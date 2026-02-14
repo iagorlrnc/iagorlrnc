@@ -26,7 +26,7 @@ Meu nome é Iagor, sou acadêmico em Ciência da Computação pela Universidade 
 
 ### Figma
 <p>Clique na imagem para abrir o projeto</p>
-<a href="https://future-lawyer-01f.notion.site/Projeto-Athlos-Figma-2f0bf723486980169964f6889c9a8b5a" target="_blank">
+<a target="_blank" href="https://future-lawyer-01f.notion.site/Projeto-Athlos-Figma-2f0bf723486980169964f6889c9a8b5a">
   <img align="center" alt="Deivid-Git" width="250" src="https://i.imgur.com/91V8Wov.png" /> 
 <a/>
 
