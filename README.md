@@ -22,6 +22,8 @@ Meu nome é Iagor, sou acadêmico em Ciência da Computação pela Universidade 
 ### TypeScript, React, TailwindCSS
 [![MD Locadora](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iagorlrnc&repo=mdlocadora&theme=tokyonight)](https://github.com/iagorlrnc/mdlocadora)
 
+[![Cardápio Interativo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iagorlrnc&repo=modelocardapio&theme=tokyonight)](https://github.com/iagorlrnc/modelocardapio)
+
 ### Figma
 <p>Clique na imagem para abrir o projeto</p>
 <a href="https://future-lawyer-01f.notion.site/Projeto-Athlos-Figma-2f0bf723486980169964f6889c9a8b5a" target="_blank">
