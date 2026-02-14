@@ -20,7 +20,7 @@ Meu nome é Iagor, sou acadêmico em Ciência da Computação pela Universidade 
 
 ## Projetos Destacados
 ### TypeScript, React, TailwindCSS
-[![MD Locadora](https://github-readme-stats.vercel.app/api/pin/?username=iagorlrnc&repo=mdlocadora&theme=tokyonight)](https://github.com/iagorlrnc/mdlocadora)
+[![MD Locadora](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iagorlrnc&repo=mdlocadora&theme=tokyonight)](https://github.com/iagorlrnc/mdlocadora)
 
 ### Figma
 <p>Clique na imagem para abrir o projeto</p>
